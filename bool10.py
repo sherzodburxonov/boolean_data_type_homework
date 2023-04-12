@@ -9,4 +9,4 @@ def main(a):
     """
     # Write your code here
     return sqrt(a)%2==0 or (sqrt(a)+1)%2==0
-print(main(15))
+print(main(13))
